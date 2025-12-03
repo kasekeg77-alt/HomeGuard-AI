@@ -1,0 +1,5 @@
+{
+  "name": "HomeGuard AI: IoT Intrusion Detection System",
+  "description": "A comprehensive Smart Home Intrusion Detection System (IDS) prototype. It features real-time traffic monitoring, AI-powered forensic analysis using Gemini, and demonstrates CIA (Confidentiality, Integrity, Availability) security principles.",
+  "requestFramePermissions": []
+}
